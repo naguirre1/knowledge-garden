@@ -34,9 +34,8 @@ OBJETO.metodo.hc;wiejbc:
 # 4. Questions
 # 5. Pending tasks
 
-```dataview
-task from #todo-list 
-where !completed AND !checked AND file.name != "🪛 Todo List"
+``` dataview 
+TASK FROM #todo-list WHERE !completed AND !checked AND file.name != "🪛 Todo List" GROUP BY file.link SORT file.mtime DESC 
 ```
 
 

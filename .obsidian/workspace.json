@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⏣ Templates/🗓 Daily Note.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "🗓 Daily Note"
+              "title": "README"
             }
           },
           {
@@ -55,16 +55,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
-                "mode": "source",
+                "file": "🌱 Seedling/Claude code.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎃 Crema de calabaza"
+              "title": "Claude code"
+            }
+          },
+          {
+            "id": "b9f0ae2954bb8427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍃 Glossary.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "🍃 Glossary"
+            }
+          },
+          {
+            "id": "9a541caa767b7c30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🎃 Crema de calabaza"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -156,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🎃 Crema de calabaza"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🎃 Crema de calabaza"
+              "title": "Outline of README"
             }
           },
           {
@@ -243,29 +267,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a5e5ad5d6446a3a4",
+  "active": "4ee3e30f5d1096a8",
   "lastOpenFiles": [
-    "🌻 Welcome/🚜 Using tips.md",
-    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
-    "🌱 Seedling/Claude code.md",
+    "⏣ Templates/🗓 Daily Note.md",
+    "06-11-2025.md",
+    "⏣ Templates/🔖 New Term.md",
     "🍃 Glossary.md",
-    "🖇️ Attachments/Pasted image 20251106101702.png",
+    "🌱 Seedling/Claude code.md",
     "README.md",
+    "🌻 Welcome/✨ Evergreen notes are always evolving.md",
+    "🌻 Welcome/🔌 Plugins.md",
+    "🌻 Welcome/📆 Daily notes setup.md",
+    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+    "🌻 Welcome/🚜 Using tips.md",
+    "🖇️ Attachments/Pasted image 20251106101702.png",
     "Untitled.md",
     "⏣ Templates/🗒 Basic Note.md",
     "🌳 Forest/🕷️ Recipes",
-    "⏣ Templates/🗓 Daily Note.md",
     "🛣️ Roadmap/⏰ ToDo Lists.md",
     "🛣️ Roadmap/👁️ General view.canvas",
     "🛣️ Roadmap/📊 Kanban.md",
     "🌻 Welcome/🥚 The six patterns of gardening.md",
-    "🌻 Welcome/✨ Evergreen notes are always evolving.md",
     "🌻 Welcome/👩‍🌾 Digital gardeners.md",
-    "🌻 Welcome/📆 Daily notes setup.md",
-    "🌻 Welcome/🔌 Plugins.md",
     "⏣ Templates/🔬 New Research.md",
     "⏣ Templates/🔗 New Link.md",
-    "⏣ Templates/🔖 New Term.md",
     "⏣ Templates/📰 New Dashboard.md",
     "⏣ Templates/📝 Todo List.md",
     "⏣ Templates/📙 New Reading Item.md",
