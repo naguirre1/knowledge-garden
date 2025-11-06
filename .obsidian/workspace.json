@@ -76,19 +76,9 @@
               "icon": "lucide-file",
               "title": "🍃 Glossary"
             }
-          },
-          {
-            "id": "9a541caa767b7c30",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🍃 Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 🍃 Glossary"
             }
           },
           {
@@ -180,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🍃 Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 🍃 Glossary"
             }
           },
           {
@@ -209,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "🍃 Glossary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 🍃 Glossary"
             }
           },
           {
@@ -267,14 +257,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4ee3e30f5d1096a8",
+  "active": "b9f0ae2954bb8427",
   "lastOpenFiles": [
+    "README.md",
     "⏣ Templates/🗓 Daily Note.md",
     "06-11-2025.md",
     "⏣ Templates/🔖 New Term.md",
     "🍃 Glossary.md",
     "🌱 Seedling/Claude code.md",
-    "README.md",
     "🌻 Welcome/✨ Evergreen notes are always evolving.md",
     "🌻 Welcome/🔌 Plugins.md",
     "🌻 Welcome/📆 Daily notes setup.md",
