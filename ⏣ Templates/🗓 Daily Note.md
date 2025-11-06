@@ -1,0 +1,61 @@
+---
+type: daily
+description: A basic structure for a daily note that evolves over the day
+---
+%%
+Status:: #in-progress
+%%
+
+---
+**Tags**:: #daily-note  #todo-list
+**Links**::  [[⏰ ToDo Lists]]
+**Started**:: 🛫 today
+
+---
+# 1. Goals
+### xx
+### xx
+
+---
+# 2. Daily
+
+
+**wkleiruyfvb** *dijkbc* 
+
+`codigo`
+
+``` Javascript
+{
+OBJETO.metodo.hc;wiejbc: 
+}
+```
+
+
+`cde` 
+----
+# 3. Doing
+# 4. Questions
+# 5. Pending tasks
+
+```dataview
+task from #todo-list 
+where !completed AND !checked AND file.name != "🪛 Todo List"
+```
+
+
+----
+
+# New Items Created
+
+```dataview
+table file.ctime as "Planted at",
+file.mtime as "Last tended to",
+length(file.inlinks) as "In Links", 
+length(file.outlinks) as "Out Links"
+where date(file.cday) <= (date(this.file.cday) + dur(1 day))
+and date(file.cday) >= date(this.file.cday)
+and this.file.name != "🗓 Daily Note"
+```
+---
+
+<!-- Put links to new items created here -->
