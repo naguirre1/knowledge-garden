@@ -1,14 +1,13 @@
 ---
 type: dashboard
 description: A basic structure file that can be used to create dashboards
+tags:
+  - dashboard
+links:
 ---
 %%
 Status:: #triage 
 %%
-
----
-**Tags**:: #dashboard
-**Links**::
 
 ---
 

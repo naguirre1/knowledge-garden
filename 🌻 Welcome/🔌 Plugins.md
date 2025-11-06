@@ -1,9 +1,15 @@
 ---
+type: note
+description: A basic note structure with no additional properties other than status and tags and links
 tags:
-  - readme/configuration
+  - obsidian_basics
+links:
 ---
+%%
+Status:: #done
+%%
 
-## Plugins
+---
 
 ### Core plugins
 - **Tag pane** List the tags and their number of occurrences.

@@ -1,11 +1,16 @@
 ---
 tags:
   - sources/repository
+type: note
+description: A basic note structure with no additional properties other than status and tags and links
+links: " https://github.com/belen-albeza/obsidian-starter-vault"
+author: Aldueza, Belén
 ---
+%%
+Status:: #triage 
+%%
 
-Author:: Aldueza, Belén
-URL:: https://github.com/belen-albeza/obsidian-starter-vault
-
+---
 Evergreen refers to notes that are continuously evolving and accumulating value.
 
 - Evergreen notes are concept-oriented and atomic.

@@ -1,14 +1,13 @@
 ---
 type: research
 description: A basic structure for carrying out a research topic with hypothesis, goals and conclusions
+tags:
+  - "#research"
+links: "[[🔬 Research]]"
 ---
 %%
 Status:: #triage 
 %%
-
----
-**Tags**:: #research
-**Links**:: [[🔬 Research]]
 
 ---
 

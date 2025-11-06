@@ -1,7 +1,18 @@
 ---
 tags:
-  - readme/generalinfo
+type: documentation
+description:
 ---
+%%
+Status:: #done
+%%
+
+---
+**Tags**:: #digital_gardening #obsidian_basics 
+**Links**:: <!-- Add any links for this note -->
+
+---
+
 Some cool [[🥚 The six patterns of gardening|Digital gardens]]:
 
 - [XXIIVV](https://wiki.xxiivv.com/site/home.html), on software, art, etc.

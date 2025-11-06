@@ -2,14 +2,16 @@
 status: triage
 type: reading
 description: A basic structure for a reading source such as a book or article
+tags:
+  - "#reading"
+links: "[[📚 Reading]]"
 ---
 %%
 Status:: #triage 
 %%
 
 ---
-**Tags**:: #reading
-**Links**:: [[📚 Reading]]
+
 **Format**:: <% tp.system.suggester(["Book", "E-Book", "Article", "Blog Post", "PDF", "Custom"], ["Book", "E-Book", "Article", "Blog Post", "PDF", ""]) %>
 **Author**:: 
 **ISBN**::

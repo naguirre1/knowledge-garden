@@ -1,3 +1,0 @@
-```dataview
-file from #term
-```

@@ -1,17 +1,17 @@
 ---
 type: daily
 description: A basic structure for a daily note that evolves over the day
+tags:
+  - daily-note
+  - todo-list
+related: "[[⏰ ToDo Lists]]"
 ---
 %%
 Status:: #in-progress
 %%
 
 ---
-**Tags**:: #daily-note  #todo-list
-**Links**::  [[⏰ ToDo Lists]]
-**Started**:: 🛫 today
 
----
 # 1. Goals
 ### xx
 ### xx
@@ -30,9 +30,6 @@ OBJETO.metodo.hc;wiejbc:
 }
 ```
 
-
-`cde` 
-----
 # 3. Doing
 # 4. Questions
 # 5. Pending tasks

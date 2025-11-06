@@ -4,10 +4,9 @@ tags:
 published_on: 2020-06-10
 aliases:
   - 2020 🗞️ The Six Patterns of Gardening
+links: https://maggieappleton.com/garden-history
+author: Appleton, Maggie
 ---
-
-Author:: Appleton, Maggie
-URL:: https://maggieappleton.com/garden-history
 
 # Appleton, Maggie - The Six Patterns of Gardening
 

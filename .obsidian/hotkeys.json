@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:⏣ Templates/🗒 Basic Note.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "5d100c12716f670e",
+    "type": "split",
+    "children": [
+      {
+        "id": "320a3b70e5a9bdc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ccf9a0709fb1656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "d6e5c8d4c51ac1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⏣ Templates/🗓 Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🗓 Daily Note"
+            }
+          },
+          {
+            "id": "4ee3e30f5d1096a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⏣ Templates/🗓 Daily Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🗓 Daily Note"
+            }
+          },
+          {
+            "id": "a5e5ad5d6446a3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎃 Crema de calabaza"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "006bf41fac1f7e1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "50143fb80a70812b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8e8a7260b00ca3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37d9f3b29c1eec0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7ee77c6c0cb789b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9ef878b1f6b0ec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d8e9493e9d4e0f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c8218d3953bf5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🎃 Crema de calabaza"
+            }
+          },
+          {
+            "id": "35877691894c4034",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🎃 Crema de calabaza"
+            }
+          },
+          {
+            "id": "ba26b23c92f5133a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7ef29665f9b1bc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🎃 Crema de calabaza"
+            }
+          },
+          {
+            "id": "fca229ec2fa500b7",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              },
+              "icon": "calendar-clock",
+              "title": "Daily Note Outline"
+            }
+          },
+          {
+            "id": "d70f35d5df7c7066",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "a5e5ad5d6446a3a4",
+  "lastOpenFiles": [
+    "🌻 Welcome/🚜 Using tips.md",
+    "🌳 Forest/🕷️ Recipes/🎃 Crema de calabaza.md",
+    "🌱 Seedling/Claude code.md",
+    "🍃 Glossary.md",
+    "🖇️ Attachments/Pasted image 20251106101702.png",
+    "README.md",
+    "Untitled.md",
+    "⏣ Templates/🗒 Basic Note.md",
+    "🌳 Forest/🕷️ Recipes",
+    "⏣ Templates/🗓 Daily Note.md",
+    "🛣️ Roadmap/⏰ ToDo Lists.md",
+    "🛣️ Roadmap/👁️ General view.canvas",
+    "🛣️ Roadmap/📊 Kanban.md",
+    "🌻 Welcome/🥚 The six patterns of gardening.md",
+    "🌻 Welcome/✨ Evergreen notes are always evolving.md",
+    "🌻 Welcome/👩‍🌾 Digital gardeners.md",
+    "🌻 Welcome/📆 Daily notes setup.md",
+    "🌻 Welcome/🔌 Plugins.md",
+    "⏣ Templates/🔬 New Research.md",
+    "⏣ Templates/🔗 New Link.md",
+    "⏣ Templates/🔖 New Term.md",
+    "⏣ Templates/📰 New Dashboard.md",
+    "⏣ Templates/📝 Todo List.md",
+    "⏣ Templates/📙 New Reading Item.md",
+    "⏣ Templates/▶️ Basic Kanban.md",
+    "Customization.md",
+    "Unt––––itled 1.md"
+  ]
+}
