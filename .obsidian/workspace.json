@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍃 Glossary.md",
+                "file": "🌱 Seedling/Claude code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🍃 Glossary"
+              "title": "Backlinks for Claude code"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🍃 Glossary.md",
+                "file": "🌱 Seedling/Claude code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🍃 Glossary"
+              "title": "Outgoing links from Claude code"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🍃 Glossary.md",
+                "file": "🌱 Seedling/Claude code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🍃 Glossary"
+              "title": "Outline of Claude code"
             }
           },
           {
@@ -257,13 +257,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b9f0ae2954bb8427",
+  "active": "a5e5ad5d6446a3a4",
   "lastOpenFiles": [
+    "🍃 Glossary.md",
     "README.md",
     "⏣ Templates/🗓 Daily Note.md",
     "06-11-2025.md",
     "⏣ Templates/🔖 New Term.md",
-    "🍃 Glossary.md",
     "🌱 Seedling/Claude code.md",
     "🌻 Welcome/✨ Evergreen notes are always evolving.md",
     "🌻 Welcome/🔌 Plugins.md",
